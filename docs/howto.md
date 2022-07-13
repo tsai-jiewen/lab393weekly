@@ -17,10 +17,10 @@ docs/
 
 ## 2. Login your ReadtheDocs(https://readthedocs.org/)
 
-## 3. `Import a Project` then `Build` 
+## 3. `Import a Project` then `Builds` 
 
 ## 4. Projects > `Admin` > Advanced Settings (Default settings)
 
 !! Very important !!
 
-Select Documentation type* as ==Mkdocs==
+Select Documentation type* as <mark>Mkdocs</mark>
