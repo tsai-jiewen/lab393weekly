@@ -10,9 +10,9 @@ nav:
         - Jupyter: Untitled1.ipynb
     
 theme: 
-    - name: readthedocs
-    - features:
-        - navigation.sections
+  name: readthedocs
+  features:
+    - navigation.sections
 markdown_extensions:
     - extra
     - smarty
