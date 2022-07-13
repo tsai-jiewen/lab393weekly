@@ -1,10 +1,12 @@
 site_name: My Docs
+site_url: 
+site_author: JW Tsai
 nav:
     - Home: index.md
     - About: about.md
     - Jupyter: Untitled1.ipynb
+    
 theme: readthedocs
-
 markdown_extensions:
     - extra
     - smarty
