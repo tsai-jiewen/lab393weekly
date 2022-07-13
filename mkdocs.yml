@@ -4,6 +4,7 @@ site_author: JW Tsai
 nav:
     - Home: index.md
     - About: about.md
+    - How to: howto.md
     - Jupyter: Untitled1.ipynb
     
 theme:
