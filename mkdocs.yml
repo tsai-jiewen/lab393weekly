@@ -2,7 +2,7 @@ site_name: Lab 393 Weekly
 site_url: https://lab393weekly.readthedocs.io
 site_author: JW Tsai
 nav:
-    - The First Level:
+    - 'The Level 1':
         - Home: index.md
         - About: about.md
     - How to: howto.md
