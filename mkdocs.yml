@@ -1,5 +1,5 @@
 site_name: Lab 393 Weekly
-site_url: lab393weekly.readthedocs.io
+site_url: https://lab393weekly.readthedocs.io
 site_author: JW Tsai
 nav:
     - Home: index.md
