@@ -15,7 +15,7 @@ docs/
     ...       # Other markdown pages, images and other files.
 ```
 
-## 2. Login your ReadtheDocs(https://readthedocs.org/)
+## 2. Login your [ReadtheDocs](https://readthedocs.org/)
 
 ## 3. `Import a Project` then `Builds` 
 
@@ -23,4 +23,4 @@ docs/
 
 !! Very important !!
 
-Select Documentation type* as <mark>Mkdocs</mark>
+Select Documentation type as <mark>Mkdocs</mark>
