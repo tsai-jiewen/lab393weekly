@@ -6,7 +6,8 @@ nav:
     - About: about.md
     - Jupyter: Untitled1.ipynb
     
-theme: readthedocs
+theme:
+  name: readthedocs
 markdown_extensions:
     - extra
     - smarty
