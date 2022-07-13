@@ -1,5 +1,5 @@
-site_name: My Docs
-site_url: 
+site_name: Lab 393 Weekly
+site_url: lab393weekly.readthedocs.io
 site_author: JW Tsai
 nav:
     - Home: index.md
@@ -7,8 +7,7 @@ nav:
     - How to: howto.md
     - Jupyter: Untitled1.ipynb
     
-theme:
-  name: readthedocs
+theme: readthedocs
 markdown_extensions:
     - extra
     - smarty
