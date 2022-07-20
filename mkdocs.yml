@@ -12,7 +12,7 @@ nav:
 theme: 
   name: readthedocs
   font:
-    text: Comic Sans
+    text: Indie Flower
   features:
     - navigation.sections
 markdown_extensions:
