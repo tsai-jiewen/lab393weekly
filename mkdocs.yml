@@ -29,9 +29,11 @@ plugins:
   - autolinks
 
 extra:
-  include_toc: yes
-  extra_nav_links:
-    Fork me on GitHub: https://github.com/tsai-jiewen/lab393weekly/
+  sidebars:
+    - about
+    - navigation
+    - related
+    - search
 
   
 extra_javascript:
