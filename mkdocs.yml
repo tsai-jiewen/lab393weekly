@@ -1,7 +1,6 @@
 site_name: Lab 393 Weekly
 site_url: https://lab393weekly.readthedocs.io
 site_author: JW Tsai
-copyright: 2022 JW Tsai
 nav:
     - 'The Level 1':
         - Home: index.md
@@ -11,7 +10,7 @@ nav:
         - Jupyter: Untitled1.ipynb
     
 theme: 
-  name: alabaster
+  name: readthedocs
   features:
     - navigation.sections
 markdown_extensions:
@@ -28,13 +27,6 @@ plugins:
   - mkdocs-jupyter
   - search
   - autolinks
-
-extra:
-  sidebars:
-    - about
-    - navigation
-    - related
-    - search
 
   
 extra_javascript:
