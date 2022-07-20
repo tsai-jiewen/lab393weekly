@@ -11,6 +11,8 @@ nav:
     
 theme: 
   name: readthedocs
+  font:
+    text: Comic Sans
   features:
     - navigation.sections
 markdown_extensions:
