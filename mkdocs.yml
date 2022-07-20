@@ -10,7 +10,7 @@ nav:
         - Jupyter: Untitled1.ipynb
     
 theme: 
-  name: mkdocs
+  name: alabaster
   features:
     - navigation.sections
 markdown_extensions:
