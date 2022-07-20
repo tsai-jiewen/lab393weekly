@@ -10,7 +10,7 @@ nav:
         - Jupyter: Untitled1.ipynb
     
 theme: 
-  name: readthedocs
+  name: alabaster
   font:
     text: Indie Flower
   features:
