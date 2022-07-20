@@ -10,9 +10,7 @@ nav:
         - Jupyter: Untitled1.ipynb
     
 theme: 
-  name: alabaster
-  font:
-    text: Indie Flower
+  name: mkdocs
   features:
     - navigation.sections
 markdown_extensions:
