@@ -28,6 +28,11 @@ plugins:
   - search
   - autolinks
 
+extra:
+  include_toc: yes
+  extra_nav_links:
+    Fork me on GitHub: https://github.com/tsai-jiewen/lab393weekly/
+
   
 extra_javascript:
   - javascripts/mathjax.js
